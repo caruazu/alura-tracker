@@ -1,5 +1,7 @@
 # alura-tracker
 
+foi usado o [Bulma](https://bulma.io/)
+
 ## Project setup
 ```
 npm install
